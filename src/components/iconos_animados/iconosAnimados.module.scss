@@ -1,0 +1,32 @@
+.content_iconos_animados {
+  padding: 40px;
+  width: 50%;
+  background: #fff;
+
+
+
+  .div_icon_one {
+    width: 50px;
+  }
+
+
+  .div_icon_array {
+    width: 150px;
+    height: 46px;
+    background-color: #7dde8f;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 4px 10px;
+    border-radius: 6px;
+    margin: 10px 0;
+
+    .icon {
+      width: 40px;
+    }
+  }
+
+
+}
+
+
